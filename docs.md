@@ -132,3 +132,4 @@ A. ログイン画面下部の「利用規約を確認する」、またはロ�
 ---
 
 **運営管理者:** `@izumiharuto@misskey.io`
+             `https://misskey.io/@izumiharuto`

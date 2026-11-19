@@ -1,1 +1,2 @@
 # MiRSS-docs
+MiRSSのヘルプリポジトリです。
